@@ -18,6 +18,8 @@ y=ax+b, onde x representa a quantidade e y o preço unitário.
 Pontos azuis: dados reais (quantidade vs. preço).
 
 Linha vermelha: reta ajustada pelo modelo de regressão.
+
+
 Link das imagens geradas
 https://github.com/RomanoScience/Analise-estatistica-de-dados/blob/main/Regrassao_linear_%26_residual.png
 
