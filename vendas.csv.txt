@@ -1,0 +1,7 @@
+Data,Produto,Quantidade,Preço Unitário,Total
+2025-05-01,Camiseta,2,50,100
+2025-05-02,Calça,1,120,120
+2025-05-02,Tênis,1,250,250
+2025-05-03,Camiseta,3,50,150
+2025-05-04,Boné,5,30,150
+2025-05-05,Tênis,2,250,500
