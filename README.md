@@ -11,7 +11,6 @@ Leitura do arquivo CSV contendo dados fictícios de vendas, com foco nas colunas
 
 2. Aplicação da Regressão Linear
 Utilização da classe LinearRegression da biblioteca scikit-learn para ajustar uma reta de tendência no formato 
-y = ax +b
 y=ax+b, onde x representa a quantidade e y o preço unitário.
 
 3. Visualização Gráfica
@@ -21,6 +20,8 @@ Pontos azuis: dados reais (quantidade vs. preço).
 Linha vermelha: reta ajustada pelo modelo de regressão.
 Link das imagens geradas
 https://github.com/RomanoScience/Analise-estatistica-de-dados/blob/main/Regrassao_linear_%26_residual.png
+
+
 🧐 Interpretação:
 O gráfico mostra que os dados estão bastante dispersos em torno da reta, o que indica que o preço unitário não depende fortemente da quantidade vendida.
 Apesar disso, há uma leve inclinação positiva na linha de regressão, sugerindo uma tendência crescente fraca entre essas variáveis.
